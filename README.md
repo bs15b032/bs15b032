@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal kumar singh.
 - 👀 I’m interested in field of data science and looking for an opprtunity to join a productive team.
-- 🌱 I’m currently learning complex Machine learning and Artificial intelligent.
+- 🌱 I’m currently learning complex machine learning algorithem and Artificial intelligent.
 - 💞️ I’m looking to collaborate on approches to solve realtime problems.
 - 📫 How to reach me: 8789217534 , vs786840@gmail.com , whatsapp 8220216514
 
