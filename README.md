@@ -6,15 +6,11 @@
 
 About me:
 
-I have been driven into a data analysis workload from the start of my journey. I am very fond of doing these kinds of work such as data analysis, statistical approach, and playing with the metadata. I am having good knowledge of Microsoft Excel & Word, Postgrad SQL, as well as Python. I am also good at creating professional dashboards with Tableau & PowerBI. Experienced Associate Product Manager with a demonstrated history of working in the e-learning industry.
+I have been immersed in data analysis work since the beginning of my career journey. I have a strong passion for tasks such as data analysis, statistical approaches, and working with metadata. I possess solid skills in Microsoft Excel & Word, Postgrad SQL, and Python. Additionally, I excel in creating professional dashboards using Tableau & PowerBI. I am an experienced Associate Product Manager with a proven track record in the e-learning industry.
 
-After completing postgraduation in biotechnology (R&D)(biological science) stream from the Indian Institute of Technology, Madras, I am confident that my academic history and drive for creative solutions will bring a positive new facet to my career.
-Inspired by innovation, I thrive on experimenting with different concepts and have been commended for inspiring and developing unique and thought-provoking ideas. I have cultivated data mining, data mapping, and database management skills through a range of practical experiences. These strengths, combined with my passion for the industry have created a strong foundation to meet the needs of the data science opportunity. I strive to contribute to an energetic and team-driven work culture.
-I am artistic and dependable and also aim to bring a cheerful and enthusiastic attitude to every project. Bringing strengths in teamwork, decision-making, and motivation, I know that my creative abilities will serve to bring a valuable addition to the organization. I look forward to the opportunity to create and grow as a Data Science.
-
+Having completed postgraduation in biotechnology (R&D) from the Indian Institute of Technology, Madras, with a focus on biological science, I am confident that my academic background and innovative mindset will bring a fresh perspective to my career. I am driven by a passion for innovation, constantly exploring new concepts and ideas. I have honed my skills in data mining, data mapping, and database management through various practical experiences. These abilities, combined with my industry passion, provide a solid foundation to excel in the field of data science. I thrive in a dynamic, team-oriented work environment, bringing a blend of creativity, reliability, and a positive attitude to every project. With strengths in teamwork, decision-making, and motivation, I am eager to contribute my creative talents to your organization. I am excited about the opportunity to learn and grow as a Data Scientist.
 
 Sincerely,
-
 
 Vishal Kumar Singh
 <!---
